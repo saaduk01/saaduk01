@@ -7,8 +7,7 @@ I'm Saad Ullah khan<br>I'm working on front end developing<br>And I'm studying a
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61585616367264) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ saad.ullahk1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/saad-ullah-khan-a540133a1)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="saad-ullah-khan-a540133a1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/saad-ullah-khan-a540133a1?trk=profile-badge">Saad ullah khan</a></div>
+
               
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@saadullahk127) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://www.threads.com/@saad.ullahk1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saadullahk127@gmail.com) 
 
