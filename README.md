@@ -1,7 +1,7 @@
 [![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/USERNAME)
 
 <h1 align="center">Hi 👋, I'm Saad ullah khan</h1>
-<h3 align="center">Software Engineering Student @ MITI | Learning AI & Machine Learning Engineer | Python</h3>
+<h3 align="center">Software Engineering Student @ MITI | Learning AI & Machine Learning Engineer | Python | Co-Founder Of Digixta | Founder of Cravix</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saaduk01&label=Profile%20views&color=0e75b6&style=flat" alt="saaduk01" /> </p>
 
